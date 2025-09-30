@@ -13,3 +13,8 @@
   <img src="https://img.shields.io/badge/MariaDB-000000?logo=mariadb&logoColor=003545&logoWidth=50&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-000000?logo=react&logoColor=61DAFB&logoWidth=50&style=for-the-badge" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
