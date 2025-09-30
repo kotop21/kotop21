@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-000000?logo=kubernetes&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=black&logoWidth=50&style=for-the-badge" />
 </p>
