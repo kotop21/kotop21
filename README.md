@@ -13,7 +13,7 @@
 <!-- ===================== FRONTEND / UI ===================== -->
 <p align="center">
   <img src="https://img.shields.io/badge/React-1c1c1c?logo=react&logoColor=61DAFB&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-1d1d1d?logo=next.js&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Astro-1e1e1e?logo=astro&logoColor=FF5D01&logoWidth=50&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-1f1f1f?logo=figma&logoColor=F24E1E&logoWidth=50&style=for-the-badge" />
 </p>
 
