@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Express.js-1f1f1f?logo=express&logoColor=white&logoWidth=50&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fastify-202020?logo=fastify&logoColor=white&logoWidth=50&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fiber-212121?logo=fiber&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-212121?logo=fastapi&logoColor=009688&logoWidth=50&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TelegramBotApi-222222?logo=telegram&logoColor=white&logoWidth=50&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Aiogram-232323?logo=python&logoColor=3776AB&logoWidth=50&style=for-the-badge" />
 </p>
