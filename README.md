@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/React-000000?logo=react&logoColor=61DAFB&logoWidth=50&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=316192&logoWidth=50&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=4479A1&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MariaDB-000000?logo=mariadb&logoColor=003545&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MariaDB-000000?logo=mariadb&logoColor=green&logoWidth=50&style=for-the-badge" />
 </p>
 
 <p align="center">
