@@ -1,5 +1,5 @@
-<h1 align="center"></h1>
-
+<h1 align="center" \>
+<!-- Языки -->
 <p align="center">
   <img src="https://img.shields.io/badge/Go-000000?logo=go&logoColor=00ADD8&logoWidth=50&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=3776AB&logoWidth=50&style=for-the-badge" />
@@ -14,7 +14,10 @@
   <img src="https://img.shields.io/badge/React-000000?logo=react&logoColor=61DAFB&logoWidth=50&style=for-the-badge" />
 </p>
 
+<!-- Инструменты -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kotop21&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotop21&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&logoWidth=50&style=for-the-badge" />
 </p>
