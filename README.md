@@ -19,5 +19,5 @@
   <img src="https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=white&logoWidth=50&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kubernetes-000000?logo=kubernetes&logoColor=white&logoWidth=50&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=white&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=black&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&logoWidth=50&style=for-the-badge" />
 </p>
