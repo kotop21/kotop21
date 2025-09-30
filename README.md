@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center"></h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-000000?logo=go&logoColor=00ADD8&logoWidth=50&style=for-the-badge" />
