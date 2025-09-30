@@ -19,8 +19,8 @@
 
 <!-- ===================== DEVOPS / TOOLS ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-000000?logo=docker&logoColor=white&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-000000?logo=kubernetes&logoColor=white&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=white&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-1a1a1a?logo=docker&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-1a1a1a?logo=kubernetes&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-1a1a1a?logo=git&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-1a1a1a?logo=linux&logoColor=white&logoWidth=50&style=for-the-badge" />
 </p>
