@@ -2,25 +2,26 @@
 
 <!-- ===================== LANGUAGES ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-000000?logo=go&logoColor=00ADD8&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=3776AB&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=3178C6&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Go-111111?logo=go&logoColor=00ADD8&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-1a1a1a?logo=python&logoColor=3776AB&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-121212?logo=javascript&logoColor=F7DF1E&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-141414?logo=typescript&logoColor=3178C6&logoWidth=50&style=for-the-badge" />
 </p>
 
 <!-- ===================== BACKEND / FRAMEWORKS ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-1a1a1a?logo=node.js&logoColor=339933&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-1a1a1a?logo=react&logoColor=61DAFB&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?logo=postgresql&logoColor=316192&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-1a1a1a?logo=mysql&logoColor=4479A1&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MariaDB-1a1a1a?logo=mariadb&logoColor=green&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-1b1b1b?logo=node.js&logoColor=339933&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-1c1c1c?logo=react&logoColor=61DAFB&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bun.js-1d1d1d?logo=bun&logoColor=E5B200&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1e1e1e?logo=postgresql&logoColor=316192&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-1f1f1f?logo=mysql&logoColor=4479A1&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MariaDB-202020?logo=mariadb&logoColor=green&logoWidth=50&style=for-the-badge" />
 </p>
 
 <!-- ===================== DEVOPS / TOOLS ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-1a1a1a?logo=docker&logoColor=white&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kubernetes-1a1a1a?logo=kubernetes&logoColor=white&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-1a1a1a?logo=git&logoColor=white&logoWidth=50&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-1a1a1a?logo=linux&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-212121?logo=docker&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-222222?logo=kubernetes&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-232323?logo=git&logoColor=white&logoWidth=50&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-242424?logo=linux&logoColor=white&logoWidth=50&style=for-the-badge" />
 </p>
