@@ -14,30 +14,6 @@ I'm a **Fullstack Developer** focused on performance, system design, and clean a
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Core
-
-Go • TypeScript • Python
-
-### 🔧 Backend
-
-Node.js • Bun • Fastify • Express • FastAPI
-
-### ⚛️ Frontend
-
-Vue • Astro
-
-### 🗄️ Data
-
-PostgreSQL • Redis
-
-### ⚙️ DevOps
-
-Docker • Docker Compose • Kubernetes • Nginx • Linux • Git
-
----
-
 ## 🎯 Engineering Approach
 
 * Prefer **simple and scalable solutions**
